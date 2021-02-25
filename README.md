@@ -4,4 +4,4 @@
 This repository contains a list of files and demo projects I'm using to master Git and GitHub concepts, taken from the Udemy course **Git Complete: The Definitive, Step-by-Step Guide to Git** by Jason Taylor.
 
 # What's Next?
-As I learn more, you'll see the repository continue to grow to show evidence of my expanding version control skill set.
+As I learn more, you'll see the repository continue to grow to show evidence of my expanding version control skill set. In this course, I have learned all of the common commands, and as of this writing am beginning to learn about comparing, ranching, and merging files.
