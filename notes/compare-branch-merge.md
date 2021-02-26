@@ -11,8 +11,8 @@ P4Merge - https://perforce.com<br>
 
 **Set as Merge Tool**<br>
 `git config --global merge.tool p4merge`<br>
-`git config --global mergetool.p4mergepath` /Applications/p4merge.app/Contents/MacOS`<br>
-`git config --global mergetool.prompt false`
+`git config --global mergetool.p4mergepath /Applications/p4merge.app/Contents/MacOS` <br>
+`git config --global mergetool.prompt false `
 
 ## Comparisons
 
@@ -79,7 +79,7 @@ Show the differences between branches
 `git merge <source-branch-name>` <br>
 Merge the source branch into the master branch
 
-** Fast Forward Merge ** <br>
+**Fast Forward Merge** <br>
 A merge made when there are no changes being made on the target branch. No additional work was done on the Master branch before merging.
 
 `git merge --no-ff ` <br>
