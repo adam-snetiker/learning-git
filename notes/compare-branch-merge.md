@@ -88,7 +88,7 @@ Disable fast forwarding merges
 `git merge <branch-name> -m "Commit message here."` <br>
 Merge a branch and preserve simple-changes as a separate branch. Auto merge will succeed if there are no conflicts.
 
-** Resolving Merge Conflicts ** <br>
+**Resolving Merge Conflicts** <br>
 A conflict occurs when changes are made to the same file on different branches. If you make a change on one branch and switch back to the other, the changes won't be reflected in that file if the branches aren't merged. GIt automatically manages the working directory for you.
 
 Git marks up the file to show conflicts.
