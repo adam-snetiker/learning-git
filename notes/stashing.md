@@ -20,7 +20,7 @@ Include untracked files that are not being excluded by .gitignore
 `git stash pop` <br>
 Apply changes from the stash and drop the stash
 
-`git stash save "like a commit message but for a stash, used to differentiate stashes"`
+`git stash save "like a commit message but for a stash, used to differentiate stashes"` <br>
 `git stash save "another message to create another stash"`
 
 `git stash show stash@{#}` <br>
