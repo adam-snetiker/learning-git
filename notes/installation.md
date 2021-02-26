@@ -1,6 +1,6 @@
 # Installation
 
-** Windows **
+**Windows**
 * Browser
 	* git-for-windows.github.io
 * Select options
