@@ -121,9 +121,9 @@ Open the gitconfig file to add more settings. You can modify settings or add mor
 `mate .gitignore` <br>
 Ignore unwanted files and folders so they're never tracked, added, or committed to a repository.  <br>
 One expression per line. Name of file, name of folder, or pattern.
-	* access.log
-	* *.log
-	* logs/
+* access.log
+* *.log
+* logs/
 
 `git reflog` <br>
 Show a log of everything we've done
