@@ -6,7 +6,7 @@
 * Select options
 * `git version`
 
-** Mac **
+**Mac**
 * Terminal
 	* `git version`
 * Follow prompt to install using command-line tools
