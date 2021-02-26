@@ -96,8 +96,8 @@ Show commit history in reverse chronological order (most recent first)
 Show history with shorter commit IDs
 
 `git log --oneline --graph --decorate` <br>
-Compress entries into one line.
-Show an ASCII branching graph
+Compress entries into one line. <br>
+Show an ASCII branching graph <br>
 Use labels and colors to annotate different parts of the commit results
 
 `git log --file` <br>
