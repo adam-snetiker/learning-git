@@ -4,12 +4,12 @@ P4Merge  -  perforce.com
 
 P4Merge Configuration (in root directory)
 
-** Set as Diff tool **
+**Set as Diff tool**
 `git config --global diff.tool p4merge`
 `git config --global difftool.p4mergepath /Applications/p4merge.app/Contents/MacOS`
 `git config --global difftool.prompt false`
 
-** Set as Merge Tool **
+**Set as Merge Tool**
 `git config --global merge.tool p4merge`
 `git config --global mergetool.p4mergepath` /Applications/p4merge.app/Contents/MacOS`
 `git config --global mergetool.prompt false`
